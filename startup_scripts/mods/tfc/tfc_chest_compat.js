@@ -95,6 +95,6 @@ StartupEvents.registry('item', event => {
         event.createCustom(Block_ID, () => { 
             let texture = $Helpers.identifier(`tfc/textures/entity/chest/normal/${Wood_Type}.png`)
             return new $ChestBlockItem(Block.getBlock(Block_ID), new $ItemProperties(), texture)
-        }).tag('alekiships:can_place_in_compartments').tag('firmaciv:chests').tag('c:wooden_chests')
+        }).tag('alekiships:can_place_in_compartments').tag('firmaciv:chests').tag('c:wooden_chests').tag('forge:chests')
     })
 })
