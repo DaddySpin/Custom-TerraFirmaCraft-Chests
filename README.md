@@ -4,3 +4,7 @@ Allows you to add/replace chests that respect TerraFirmaCraft restricted invento
 Made for Minecraft Forge 1.20.1
 
 Requires KubeJS and TerraFirmaCraft
+
+https://www.curseforge.com/minecraft/mc-mods/kubejs
+
+https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft
