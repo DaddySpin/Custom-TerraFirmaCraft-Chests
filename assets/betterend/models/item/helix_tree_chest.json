@@ -1,0 +1,6 @@
+{
+	"parent": "item/chest",
+	"textures": {
+		"particle": "tfc:block/wood/planks/helix_tree"
+	}
+}
